@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
 <h1 align="center">Hi 👋, I'm Bilal Iqbal</h1>
 <h3 align="center">A passionate Mobile App developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FSupianIDz%2FSupianIDz%2Fmain%2Fcoding.gif&tbnid=55jyr3BK5duBpM&vet=12ahUKEwi6p9XM2vCDAxWqAfsDHbOqARcQMygkegUIARDjAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&docid=dhiOHTa81iEZmM&w=800&h=600&itg=1&q=animated%20coding%20gif&ved=2ahUKEwi6p9XM2vCDAxWqAfsDHbOqARcQMygkegUIARDjAQ">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaliqbal668&label=Profile%20views&color=0e75b6&style=flat" alt="bilaliqbal668" /> </p>
 
